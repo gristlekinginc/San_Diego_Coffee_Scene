@@ -1,0 +1,13 @@
+baseURL = "https://sandiegocoffeescene.com/"
+title = "San Diego Coffee Scene"
+theme = "PaperMod"
+languageCode = "en-us"
+enableRobotsTXT = true
+description = "Your guide to the best coffee in San Diego!"
+
+[params]
+  author = "San Diego Coffee Scene Team"
+  description = "Discover coffee shops, events, roasters, and the best coffee culture in San Diego."
+
+[taxonomies]
+  author = "authors"
